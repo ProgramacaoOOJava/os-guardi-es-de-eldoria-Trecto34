@@ -19,7 +19,7 @@ public class Personagem {
 	System.out.println("Classe:" + this.classe);
 	System.out.println("Nivel:" + this.nivel);
 	System.out.println("Pontos de Vida:" + this.pontosDeVida);
-	System.out.println("Poder Base:" + this.poderBase);
+	System.out.println("Poder Base:" + this.poderBase + "\n");
     }
 }
 
