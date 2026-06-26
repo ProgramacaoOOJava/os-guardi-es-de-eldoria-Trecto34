@@ -6,6 +6,6 @@ public class Mago extends Personagem {
 	public void usarHabilidadeEspecial(){
 		 // System.out.println("Saldo insuficiente.");
 		// Guerreiro Arthus ataca com Espada Flamejante!
-		System.out.println("Mago " + nome + "lança Bola de Fogo!");
+		System.out.println("Mago " + nome + " lança Bola de Fogo!");
 	}
 }
