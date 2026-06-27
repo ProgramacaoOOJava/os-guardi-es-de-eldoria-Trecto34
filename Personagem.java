@@ -23,5 +23,17 @@ public abstract class Personagem {
 	System.out.println("Pontos de Vida:" + this.pontosDeVida);
 	System.out.println("Poder Base:" + this.poderBase + "\n");
     }
+
+    public int getNivel(){
+	    return this.nivel;
+    }
+
+    public String getNome(){
+    	return this.nome;
+    }
+
+    public double getPoderBase(){
+	return this.poderBase;
+    }
 }
 
